@@ -3,6 +3,10 @@
 Neuroarch
 =========
 
+Note
+----
+The official NeuroArch repository has been moved to https://github.com/fruitflybrain/neuroarch.
+
 Package Description
 -------------------
 Neuroarch is a database for codifying knowledge about fruit fly brain circuits.
